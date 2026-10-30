@@ -1,0 +1,7 @@
+2026-10-30 10:00:00 INFO Server started
+2026-10-30 10:01:00 INFO Client connected
+2026-10-30 10:02:00 WARNING High CPU usage
+2026-10-30 10:03:00 ERROR Connection timeout
+2026-10-30 10:04:00 ERROR Connection timeout
+2026-10-30 10:05:00 INFO Client disconnected
+2026-10-30 10:06:00 CRITICAL Server failure

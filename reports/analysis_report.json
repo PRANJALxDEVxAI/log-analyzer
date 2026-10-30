@@ -1,0 +1,55 @@
+{
+    "total_logs": 11,
+    "invalid_entries": 0,
+    "log_level_statistics": {
+        "INFO": 5,
+        "WARNING": 2,
+        "ERROR": 3,
+        "CRITICAL": 1
+    },
+    "total_errors": 4,
+    "error_percentage": 36.36,
+    "common_errors": {
+        "Database connection failed": 2,
+        "Database server unavailable": 1,
+        "File not found": 1
+    },
+    "common_messages": {
+        "Application started": 1,
+        "User logged in": 1,
+        "Disk space is getting low": 1,
+        "Database connection failed": 2,
+        "Retrying database connection": 1,
+        "Database server unavailable": 1,
+        "Application running": 1,
+        "High memory usage": 1,
+        "File not found": 1,
+        "Application shutdown": 1
+    },
+    "time_range": {
+        "earliest": "2026-10-30 09:15:22",
+        "latest": "2026-10-30 09:24:00"
+    },
+    "error_details": [
+        {
+            "timestamp": "2026-10-30 09:18:30",
+            "level": "ERROR",
+            "message": "Database connection failed"
+        },
+        {
+            "timestamp": "2026-10-30 09:19:45",
+            "level": "ERROR",
+            "message": "Database connection failed"
+        },
+        {
+            "timestamp": "2026-10-30 09:20:10",
+            "level": "CRITICAL",
+            "message": "Database server unavailable"
+        },
+        {
+            "timestamp": "2026-10-30 09:23:30",
+            "level": "ERROR",
+            "message": "File not found"
+        }
+    ]
+}

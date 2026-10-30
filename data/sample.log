@@ -1,0 +1,11 @@
+2026-10-30 09:15:22 INFO Application started
+2026-10-30 09:16:10 INFO User logged in
+2026-10-30 09:17:05 WARNING Disk space is getting low
+2026-10-30 09:18:30 ERROR Database connection failed
+2026-10-30 09:19:12 INFO Retrying database connection
+2026-10-30 09:19:45 ERROR Database connection failed
+2026-10-30 09:20:10 CRITICAL Database server unavailable
+2026-10-30 09:21:00 INFO Application running
+2026-10-30 09:22:15 WARNING High memory usage
+2026-10-30 09:23:30 ERROR File not found
+2026-10-30 09:24:00 INFO Application shutdown
